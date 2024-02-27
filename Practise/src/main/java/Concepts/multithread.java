@@ -14,6 +14,7 @@ package Concepts;
     }
 } */
 
+
 //Second way to create threads in Java
 public class multithread implements Runnable {
 
